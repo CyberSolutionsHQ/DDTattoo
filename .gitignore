@@ -1,0 +1,9 @@
+secrets/
+**/secrets/
+.env
+*.key
+*.pem
+*.p12
+
+context_logs/
+**/context_logs/
